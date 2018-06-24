@@ -70,7 +70,7 @@ public class ThirdActivity extends AppCompatActivity {
         String pass2 = Password2.getText().toString();
         String email = Email.getText().toString();
 
-        if(fnme.isEmpty() && lnme.isEmpty() && pass.isEmpty() && uid.isEmpty() && pass2.isEmpty() && email.isEmpty()){
+        if(fnme.isEmpty() || lnme.isEmpty() || pass.isEmpty() || uid.isEmpty() || pass2.isEmpty() || email.isEmpty()){
             Toast.makeText(this,"Please enter all the details.", Toast.LENGTH_SHORT).show();
         }
         else if(!(pass.equals(pass2))){
