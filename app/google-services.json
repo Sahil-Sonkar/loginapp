@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "516030791191",
+    "firebase_url": "https://loginapp-ab53d.firebaseio.com",
+    "project_id": "loginapp-ab53d",
+    "storage_bucket": "loginapp-ab53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516030791191:android:7d0c1fbec33ab0f0",
+        "android_client_info": {
+          "package_name": "com.example.reborux.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516030791191-c9e40ea958hagu75o4jv7n4kupmu819c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCirbLEdMBeMcYwe-51Snu4JYQ1V8SHUSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
